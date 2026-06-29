@@ -80,7 +80,11 @@ This library comes with a pre-computed "Verification"
 Drop me a whatsApp via +94 76 388 5727 or mail me at vindana@cyburndigital.com for proof. Only if you are interested.
 
 * **TLA+ Proofs:** Proving architectural impossibility of deadlocks or double-allocations.
+* <img width="971" height="455" alt="image" src="https://github.com/user-attachments/assets/4c1f1273-1d66-405b-a185-fb7e659cbbe2" />
+
 * **CBMC Proofs:** Mathematical guarantee of zero buffer overflows or pointer alignment risks.
+* <img width="969" height="413" alt="image" src="https://github.com/user-attachments/assets/61b83cfa-1cda-4d32-a5f7-23af55f8c622" />
+
 * **Stress Test Logs:** Validated performance under 1,000,000 randomized operations with 0% memory leakage.
 
 ---
