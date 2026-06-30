@@ -1,7 +1,7 @@
 /**
  * certalloc.h - Deterministic memory allocator for safety-critical systems
  * * MISRA C:2012 compliant (with minimal deviations noted)
- * Copyright (C) 2025-2026 CertAlloc Project
+ * Copyright (C) 2025-2026 CertAlloc Project - CyBurn - TheDevilHimselfCodes
  */
 
 #ifndef CERTALLOC_H
@@ -17,7 +17,7 @@ extern "C" {
 
 /**
  * @brief Maximum number of memory pools supported
- * Increase if your application needs more pool types
+ * Increase if client application needs more pool types
  */
 #define CERTALLOC_MAX_POOLS 16
 
@@ -98,7 +98,7 @@ uint32_t certalloc_get_total_memory(void);
 uint8_t certalloc_get_utilization_percent(void);
 
 /* ========================================================================== */
-/* Concurrency Hooks - User must implement these in their application code    */
+/* Concurrency Hooks - YOU/YOUR COMPANY/YOUR GRANDMA must implement these in YOUR application code    */
 /* ========================================================================== */
 
 /**
