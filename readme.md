@@ -91,6 +91,6 @@ Drop me a whatsApp via +94 76 388 5727 or mail me at vindana@cyburndigital.com f
 
 ## ⚖️ License & Compliance
 
-This software is provided as a **Qualification-Ready Component**. Please refer to the `compliance/` documentation when submitting this component for internal audits or external safety certifications (ISO 26262/IEC 62304).
+This software is provided as a **Production-Ready Component**. Please refer to the `compliance/` documentation for TLA+, CBMC Proof when submitting this component for internal audits or external safety certifications (ISO 26262/IEC 62304). For licensing, please contact mailtovindana@gmail.com, vindana@cyburndigital.com, +94 76 388 5727 (WhatsApp).
 
 ---
